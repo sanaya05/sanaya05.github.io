@@ -1,0 +1,236 @@
+body{
+    margin: 0px 5vw;
+    width: 90vw;
+    max-width: 1100px;
+    background: #fd9191; 
+    
+}
+
+.myDiv1 { 
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+
+}
+#txt1{
+    font-size: 30px;
+    text-shadow: 2px 2px #ff0000;
+    height: 50vw;;
+    margin-left: 17vw;
+}
+
+#txt2{
+    
+      
+          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+          
+      
+    width: 90vw;
+    height: 20vw;
+    margin-left: 17vw;
+    margin: 2vw 1vw;
+    left:0;
+    font-size: 1.5vw;
+}
+
+
+
+.box{
+    height: 20vw;
+    width: 90vw;
+    display: flex;
+}
+.button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+  }
+  
+  
+  .button1 {border-radius: 40px;}
+  .button2 {border-radius: 40px;}
+  
+
+.hello { 
+	background: #7045ff; 
+}
+
+.infographic{ 
+	background: #ff6699; 
+}
+
+section {
+    display: block;
+  }
+
+.fourth-color { 
+	background: #ffaded; 
+}
+
+.primary-text-color { 
+	color: #212121; 
+}
+
+.secondary-text-color { 
+	color: #757575; 
+}
+
+.divider-color { 
+	color: #BDBDBD; 
+}
+
+.icon-color { 
+	color: #000000; 
+}
+
+
+
+
+/* manmehak*/
+#b3{
+ 
+    height: 25vw;
+}
+
+table
+{
+    border-collapse: separate;
+border-spacing: 0 1.3vw;
+overflow-x: auto;
+}
+
+#table-title{
+    margin-top: 10vw;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: brown;
+    margin-left: 50%;
+    font-size: 3.5vw;
+    text-shadow: 0 1vw 7vw antiquewhite;
+}
+th{
+    background-color: #757575; 
+    color: whitesmoke;
+    font-size: 1.2vw;
+    height: 10vw;
+    width: 20vw;
+}
+td{
+    vertical-align: top;
+    width: 80vw;
+}
+tr{
+    background-color: white;
+    box-shadow: 0 0 10px black;
+}
+#TableHeading{
+    font-size: 2vw;
+}
+
+#field
+{
+    font-size: 1.3vw;
+}
+td #field{
+    font-size: 2vw;
+}
+#school
+{
+color: grey;
+text-transform: uppercase;
+}
+#supervisor{
+    color:forestgreen;
+}
+
+#contact{
+    font-size: 3vw;
+    font-family: 'Nanum Myeongjo', serif;
+}
+#ff{
+    width: 85vw;
+    height: 45vw;
+}
+legend
+{
+font-family: 'Alegreya Sans SC', sans-serif;
+color: burlywood;
+text-shadow: 0 1vw 4vw black;
+font-size: 3vw;
+}
+fieldset{
+    /* font-family: 'Brush Script MT', cursive; */
+    font-family: 'Laila', sans-serif;
+    color: #e16428;
+    font-size: 1.5vw;
+    width: 86.5vw;
+    background-color: #ffcf7f;
+}
+textarea{
+    resize: none;
+    vertical-align: top;
+    text-align: left;
+    overflow-x: auto;
+    width: 56vw;
+}
+
+label {
+    display: inline-block;
+    width: 12vw;
+    margin-left: 5vw;
+  }
+
+input{
+    font-size: 1.3vw;
+}
+
+#attachments
+{
+    font-family: 'Roboto Mono', monospace;
+color: white;
+font-size: 1.3vw;
+margin-left: 27vw;
+}
+
+#rate{
+    display: none;
+}
+
+#radiobuttons
+{
+font-size: 1.3vw;
+font-family: 'Roboto Mono', monospace;
+color: white;
+}
+
+#more{
+    height: auto;
+    width: 90vw;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+          
+      
+    width: 90vw;
+    height: 20vw;
+    margin-left: 17vw;
+    margin: 2vw 1vw;
+    left:0;
+    font-size: 1.5vw;
+    text-align: center;
+}
+#mail{
+    font-size: 4vw;
+    text-align: right;
+    margin-left: 50vw;
+    
+}
+
+
