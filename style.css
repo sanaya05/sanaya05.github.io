@@ -21,14 +21,14 @@ body{
 
 #txt2{
     
-      
+    font-family: 'Merienda', cursive;
           background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
           
-      
+          
     width: 90vw;
-    height: 20vw;
+    height: 27vw;
     margin-left: 17vw;
     margin: 2vw 1vw;
     left:0;
@@ -94,7 +94,7 @@ section {
 
 
 
-/* manmehak*/
+
 #b3{
  
     height: 25vw;
@@ -107,13 +107,14 @@ border-spacing: 0 1.3vw;
 overflow-x: auto;
 }
 
-#table-title{
+#tablet{
     margin-top: 10vw;
-    font-family: 'Alegreya Sans SC', sans-serif;
+    font-family: 'Merienda', cursive;
+    text-shadow: 2px 2px black;
     color: brown;
     margin-left: 50%;
     font-size: 3.5vw;
-    text-shadow: 0 1vw 7vw antiquewhite;
+    
 }
 th{
     background-color: #757575; 
@@ -146,13 +147,12 @@ td #field{
 color: grey;
 text-transform: uppercase;
 }
-#supervisor{
-    color:forestgreen;
-}
 
-#contact{
+
+#con{
     font-size: 3vw;
-    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Merienda', cursive;
+    text-shadow: 2px 2px black;
 }
 #ff{
     width: 85vw;
@@ -166,7 +166,7 @@ text-shadow: 0 1vw 4vw black;
 font-size: 3vw;
 }
 fieldset{
-    /* font-family: 'Brush Script MT', cursive; */
+   
     font-family: 'Laila', sans-serif;
     color: #e16428;
     font-size: 1.5vw;
@@ -183,7 +183,7 @@ textarea{
 
 label {
     display: inline-block;
-    width: 12vw;
+    width: 13vw;
     margin-left: 5vw;
   }
 
@@ -191,15 +191,8 @@ input{
     font-size: 1.3vw;
 }
 
-#attachments
-{
-    font-family: 'Roboto Mono', monospace;
-color: white;
-font-size: 1.3vw;
-margin-left: 27vw;
-}
 
-#rate{
+#hr{
     display: none;
 }
 
@@ -211,15 +204,16 @@ color: white;
 }
 
 #more{
-    height: auto;
-    width: 90vw;
+    
+    font-family: 'Merienda', cursive;
+    
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
           
       
     width: 90vw;
-    height: 20vw;
+    height: 30vw;
     margin-left: 17vw;
     margin: 2vw 1vw;
     left:0;
@@ -231,6 +225,22 @@ color: white;
     text-align: right;
     margin-left: 50vw;
     
+}
+
+.reflect{
+    height:10vw;
+    font-family: 'Merienda', cursive;
+    font-size: 1.8vw;
+    text-align: left;
+    text-shadow: 2px 2px black;
+}
+
+.git{
+    height:10vw;
+    font-family: 'Merienda', cursive;
+    font-size: 1.8vw;
+    text-align: right;
+    text-shadow: 2px 2px black;
 }
 
 

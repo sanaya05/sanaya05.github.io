@@ -1,12 +1,12 @@
-function dynamicreveal()
+function dynamic()
 {
 if(document.getElementById('hiring').checked)
 {
-document.getElementById('rate').style.display = "block";
+document.getElementById('hr').style.display = "block";
 }
 else
 {
-document.getElementById('rate').style.display = "none";
+document.getElementById('hr').style.display = "none";
 }
 return;
 }
